@@ -2,7 +2,7 @@
 title: "Bootstrap cheatsheet"
 linkTitle: "Bootstrap"
 description: "Showcase various configurations of Flux controllers at bootstrap time."
-weight: 30
+weight: 29
 ---
 
 ## How to customize Flux
